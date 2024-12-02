@@ -1,0 +1,6 @@
+git init
+git status
+git add 
+git commint -m" ---- "
+rm 
+git restore
