@@ -4,3 +4,5 @@ git add
 git commint -m" ---- "
 rm 
 git restore
+git remote add origin "link"
+git remote set-url "link"
